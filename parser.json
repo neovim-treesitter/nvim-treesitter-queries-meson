@@ -1,7 +1,7 @@
 {
-  "lang": "meson",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-meson",
   "semver": false,
   "parser_version": "c84f3540624b81fc44067030afce2ff78d6ede05",
-  "location": null
+  "location": null,
+  "lang": "meson"
 }
